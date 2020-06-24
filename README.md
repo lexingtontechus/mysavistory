@@ -1,7 +1,7 @@
-# BLMBadge
+# mySAVIstoryBadge
 ### An open-source badge to put your mark on every project.
 
-<img src="https://ucarecdn.com/17cf0e47-7c5f-4559-972b-d2448aee1768/image.png" width="600" style="
+<img src="https://www.savivets.org/wp-content/uploads/2019/03/Premier-Partner.png" width="600" style="
     margin: 5rem auto;
     display: block;
     border: 4px solid black;
@@ -24,14 +24,14 @@ Use it in 2 steps:
 <!-- Initialise MakerBadge with options -->
     
 <script>
-  BLMBadge.init({
+  mysavistoryBadge.init({
        layout:1, 
        theme:'dark', 
        promoText : 'Send a donation '+String.fromCodePoint(0x2192),
-       promoLink : 'https://minnesotafreedomfund.org/',
-       message : 'To be silent is to be complicit. Black lives matter.',
-       title : '#BlackLivesMatter',
-       imageAlt: "Black Lives Matter Badge"
+       promoLink : 'https://savivets.org/donate/',
+       message : 'Support Our Veterans. My SAVI Story',
+       title : '#mySAVIstory',
+       imageAlt: "My SAVI Story"
 })
 </script>
 ```
@@ -45,7 +45,7 @@ You can customise the values after each colon (e.g. layout:2 - change the 2 to 1
 * promoURL: a string (url) to a donation page.
 * message: string - any short message.
 * title: string - The title of your badge
-* imageAlt: string - Alt text for your image - the default is "Black Lives Matter Badge"
+* imageAlt: string - Alt text for your image - the default is "My SAVI Story"
 
 ---
 
