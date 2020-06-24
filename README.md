@@ -7,7 +7,7 @@
     border: 4px solid black;
     border-radius: 5px;"/>
     
-This project is a fork of MakerBadge - customised for #BLM
+This project is a fork of MakerBadge - customised for #mysavistory
 
 ---
 
