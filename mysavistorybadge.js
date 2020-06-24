@@ -93,7 +93,7 @@ MakerBadge.prototype = {
     var that = this
     //@TODO: separate themes out into their own sections
     //var img = 'https://tinify-bucket.s3-us-west-1.amazonaws.com/blm-blue-round.png'
-    var mg = 'https://www.lexingtontech.us/wp-content/uploads/images/savi_preferred_partner.png'
+    var img = 'https://www.lexingtontech.us/wp-content/uploads/images/savi_preferred_partner.png'
     var border = '';
     if(that.theme=='dark'){
       //img = 'https://tinify-bucket.s3-us-west-1.amazonaws.com/blm-blue-round.png'
