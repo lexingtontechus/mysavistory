@@ -11,7 +11,7 @@ This project is a fork of MakerBadge - customised for #BLM
 
 ---
 
-# How to use BLMBadge/MakerBadge:
+# How to use mysavistoryBadge/MakerBadge:
 Use it in 2 steps:
 
 ## 1. Get your badge:
@@ -19,7 +19,14 @@ Use it in 2 steps:
 ```html
 <!-- Insert makerbadge.js (download or use ☁️cloud version) -->
 
-<script type="text/javascript" src="https://makerbadge.s3.amazonaws.com/blmbadge.js"></script>
+<!-- Premium badge -->
+<script type="text/javascript" src="https://mysavistory.netlify.app/mysavistorybadge_premium.js"></script>
+<!-- Trusted badge -->
+<script type="text/javascript" src="https://mysavistory.netlify.app/mysavistorybadge_trusted.js"></script>
+<!-- Recommended badge -->
+<script type="text/javascript" src="https://mysavistory.netlify.app/mysavistorybadge_recommended.js"></script>
+<!-- Preferred badge -->
+<script type="text/javascript" src="https://mysavistory.netlify.app/mysavistorybadge_preferred.js"></script>
 
 <!-- Initialise MakerBadge with options -->
     
