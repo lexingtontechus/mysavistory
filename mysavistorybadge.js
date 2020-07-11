@@ -93,15 +93,15 @@ MakerBadge.prototype = {
     var that = this
     //@TODO: separate themes out into their own sections
     //var img = 'https://tinify-bucket.s3-us-west-1.amazonaws.com/blm-blue-round.png'
-    var img = 'https://www.lexingtontech.us/wp-content/uploads/images/savi_preferred_partner.png'
+    var img = 'https://www.savivets.org/wp-content/uploads/2019/03/Preferred-Partner.png'
     var border = '';
     if(that.theme=='dark'){
       //img = 'https://tinify-bucket.s3-us-west-1.amazonaws.com/blm-blue-round.png'
-      img = 'https://www.lexingtontech.us/wp-content/uploads/images/savi_preferred_partner.png'
+      img = 'https://www.savivets.org/wp-content/uploads/2019/03/Preferred-Partner.png'
     }
     else if(that.theme=='light' ){
       //img = 'https://tinify-bucket.s3-us-west-1.amazonaws.com/blm-white-round.png'
-      img = 'https://www.lexingtontech.us/wp-content/uploads/images/savi_preferred_partner.png'
+      img = 'https://www.savivets.org/wp-content/uploads/2019/03/Preferred-Partner.png'
       if(that.layout==2){
         border = 'border:1px solid #cbd5e0;';
       }
