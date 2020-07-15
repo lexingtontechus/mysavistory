@@ -1,7 +1,8 @@
 # mySAVIstoryBadge
 ### An open-source badge to put your mark on every project.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48c5b8fc-bc88-4004-86fc-0275af66de82/deploy-status)](https://app.netlify.com/sites/mysavistory/deploys)
 
-<img src="https://www.savivets.org/wp-content/uploads/2019/03/Premier-Partner.png" width="600" style="
+<img src="https://www.savivets.org/wp-content/uploads/2019/03/Premier-Partner.png" width="250" style="
     margin: 5rem auto;
     display: block;
     border: 4px solid black;
